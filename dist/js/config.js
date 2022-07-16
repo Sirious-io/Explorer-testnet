@@ -1,8 +1,8 @@
 const ExplorerConfig = {
-  nodeURL: 'https://node-1.siricoin.tech:5006/',
-  ticker: 'Siri',
-  blockReward: 50,
-  blockTime: 1200,
+  nodeURL: 'http://so-travelling.at.playit.gg:51922',
+  ticker: 'Siro',
+  blockReward: 12.5,
+  blockTime: 300,
   maxSupply: 21000000000,
   decimalPoints: 18
 }
