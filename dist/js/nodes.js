@@ -1,16 +1,7 @@
 nodes = [{
-  "name": "Main-net",
-  "protocol": "https",
-  "URL": "node-1.siricoin.tech:5006"
-}, {
-  "name": "Junaid shard chain",
-  "protocol": "https",
-  "URL": "node-2.siricoin.tech:5006"
-},
-{
-  "name": "Yanis shard chain",
-  "protocol": "https",
-  "URL": "sirinode1.raptorchain.io:443"
+  "name": "Test-net",
+  "protocol": "http",
+  "URL": "so-travelling.at.playit.gg:51922"
 }
 ]
 
