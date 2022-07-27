@@ -1,7 +1,7 @@
 nodes = [{
   "name": "Test-net",
-  "protocol": "http",
-  "URL": "so-travelling.at.playit.gg:51922"
+  "protocol": "https",
+  "URL": "testnet.siro.pichisdns.com:5006"
 }
 ]
 
