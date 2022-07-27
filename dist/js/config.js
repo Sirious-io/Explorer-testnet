@@ -6,3 +6,4 @@ const ExplorerConfig = {
   maxSupply: 21000000000,
   decimalPoints: 18
 }
+
