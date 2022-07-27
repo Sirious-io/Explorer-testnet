@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  nodeURL: 'http://so-travelling.at.playit.gg:51922/',
+  nodeURL: 'https://testnet.siro.pichisdns.com:5006/',
   ticker: 'Siro',
   blockReward: 12.5,
   blockTime: 300,
