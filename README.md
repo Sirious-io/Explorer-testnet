@@ -1,4 +1,4 @@
-# Siricoin Blockchain Explorer
+# Sirious Blockchain Explorer
 
 This Blockchain Explorer is entirely self contained.
 
