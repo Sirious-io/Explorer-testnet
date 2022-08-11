@@ -1,7 +1,7 @@
 nodes = [{
   "name": "Test-net",
   "protocol": "https",
-  "URL": "testnet.siro.pichisdns.com:5006"
+  "URL": "testnet.siro.network:443"
 }
 ]
 
