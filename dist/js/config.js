@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  nodeURL: 'https://testnet.siro.pichisdns.com:5006/',
+  nodeURL: 'https://testnet.siro.network/',
   ticker: 'Siro',
   blockReward: 12.5,
   blockTime: 300,
